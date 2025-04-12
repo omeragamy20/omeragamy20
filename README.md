@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Omar Ashraf Agamy  
-Full Stack Dot-Net Developer
 - 👀 I’m interested in Full Stack .NET development and creating scalable, efficient software solutions.  
 - 🌱 I’m currently honing my skills in Angular, ASP.NET Core, and modern web development frameworks.  
 - 💞️ I’m looking to collaborate on innovative projects that utilize .NET technologies, including ASP.NET MVC, Web API, and Angular.  
